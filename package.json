@@ -32,7 +32,7 @@
     "start": "vite --host",
     "build": "vite build",
     "deploy": "gh-pages -d build",
-    "test": "react-scripts test"
+    "test": "vite test"
   },
   "eslintConfig": {
     "extends": [
