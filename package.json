@@ -2,6 +2,7 @@
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://mackthedeveloper.github.io/my-portfolio",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
@@ -29,7 +30,8 @@
   },
   "scripts": {
     "start": "vite --host",
-    "build": "vite build"
+    "build": "vite build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -53,6 +55,7 @@
     "@types/react-pdf": "^6.2.0",
     "@vitejs/plugin-react": "^2.0.1",
     "autoprefixer": "^10.4.13",
+    "gh-pages": "^6.1.1",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.7",
     "vite": "^3.0.7"
