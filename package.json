@@ -29,10 +29,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "vite --host",
     "build": "vite build",
-    "deploy": "gh-pages -d build",
-    "test": "vite test"
+    "dev": "vite",
+    "preview": "vite preview"
   },
   "eslintConfig": {
     "extends": [
