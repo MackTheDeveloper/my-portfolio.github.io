@@ -22,12 +22,12 @@ const AboutInfo = () => {
           <p style={{ textAlign: "justify" }}>
             Hi people, I am{" "}
             <span style={{ color: "#32CD30", fontWeight: "bold" }}>
-              Abhinav Kumar
+              Manish Patel
             </span>{" "}
-            from Jamshedpur,India. I did my B.Tech in Information Technology
+            from Winnipeg, MB, Canada. I did Master in Computer Science & Information Technology
             from{" "}
             <span style={{ color: "#32CD30", fontWeight: "bold" }}>
-              VIT Vellore
+              H.N.G.U
             </span>{" "}
             and currently I'm interning at{" "}
             <span style={{ color: "#32CD30", fontWeight: "bold" }}>
@@ -75,7 +75,7 @@ const AboutInfo = () => {
       <div className="github-graph">
         <GitHubCalendar
           style={{ marginBottom: "50px" }}
-          username="Abhinav2011"
+          username="MackTheDeveloper"
           blockMargin={6}
           blockSize={12}
           fontSize={16}
