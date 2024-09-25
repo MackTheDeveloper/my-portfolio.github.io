@@ -9,7 +9,7 @@ My portfolio built using React JS
 
 ## Demo
 
-https://my-portfolio-abhinav2011.vercel.app/
+https://my-portfolio-github-io-fawn.vercel.app/
 
 
 ## Run Locally
