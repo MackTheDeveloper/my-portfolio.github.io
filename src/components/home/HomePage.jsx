@@ -33,7 +33,7 @@ const HomePage = () => {
                   textDecoration: "",
                 }}
               >
-                ABHINAV KUMAR
+                MANISH PATEL
               </span>
             </h1>
           </div>
