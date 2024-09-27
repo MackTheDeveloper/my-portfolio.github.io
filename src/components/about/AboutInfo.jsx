@@ -27,11 +27,11 @@ const AboutInfo = () => {
             from Winnipeg, MB, Canada. I did Master in Computer Science & Information Technology
             from{" "}
             <span style={{ color: "#32CD30", fontWeight: "bold" }}>
-              H.N.G.U
+              H.N.G.U, India
             </span>{" "}
-            and currently I'm interning at{" "}
+            and currently I'm working as{" "}
             <span style={{ color: "#32CD30", fontWeight: "bold" }}>
-              JP Morgan Chase & Co
+            freelance web developer
             </span>
             .
           </p>
@@ -42,11 +42,11 @@ const AboutInfo = () => {
             <ul>
               <li>
                 <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}
-                Watching Table Tennis
+                Sports
               </li>
               <li>
                 <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}
-                Gardening
+                Reading
               </li>
               <li>
                 <BsFillArrowRightSquareFill style={{ display: "inline" }} />{" "}

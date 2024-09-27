@@ -6,8 +6,9 @@ const TypeAnimation = () => {
     <Typewriter
       options={{
         strings: [
-          "Software Engineer",
-          "Full Stack Developer",
+          "Full Stack Web Developer",
+          "Accountability",
+          "Teamwork",
           "DSA Enthusiast",
           "Curious Learner",
         ],

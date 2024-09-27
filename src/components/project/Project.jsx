@@ -20,9 +20,9 @@ const Project = () => {
           fontWeight: "bold",
         }}
       >
-        My Recent <span style={{ color: "#32CD30" }}>Projects</span>
+        <span style={{ color: "#32CD30" }}>Projects</span>
       </h1>
-      <p>These are some of the projects that I have been working on my own time!!</p>
+      <p>Here are some of the projects that I have worked so far!!</p>
       <div className="project-cards">
         <Card.Group itemsPerRow={width > 786 ? 3 : 1}>
           {projectData.map((data, index) => {

@@ -1,46 +1,46 @@
-import leetcodeNotifier from "../../assets/leetcode.svg";
-import transferMusic from "../../assets/transferMusic.svg";
-import ecommerce from "../../assets/ecommerce.svg";
-import group from "../../assets/group.svg";
-import voting from "../../assets/voting.svg";
-import phishing from "../../assets/phishing.svg";
+import cargo from "../../assets/cargo.svg";
+import fanclub from "../../assets/fanclub.svg";
+import delivercare from "../../assets/delivercare.svg";
+import reqcity from "../../assets/reqcity.svg";
+import rlhh from "../../assets/rlhh.svg";
+import damask from "../../assets/damask.svg";
 
 const projectData = [
     {
-        title : "Transfer Music",
-        description : "Web app which helps transfers your entire playlists from Youtube Music to Spotify.",
-        image : transferMusic,
-        projectLink : "https://github.com/Abhinav2011/Transfer-Music",
+        title : "Fanclub",
+        description : "Fanclub is a community that brings fans and artists together on one platform.",
+        image : fanclub,
+        projectLink : "https://github.com/MackTheDeveloper/fanclub",
     },
     {
-        title : "Blockchain crowdfunding platform",
-        description : "Crowdfunding platform built on the Ethereum network. Decentralized system to raise funds for a campaign. Used NextJS for frontend and Solidity for backend.",
-        image : group,
-        projectLink : "https://github.com/Abhinav2011/crowdfund",
+        title : "ReqCity",
+        description : "ReqCity is a community of employers, recruiters, and candidates looking to solve the same problem: recruiting and hiring qualified talent and lowering unemployment levels.",
+        image : reqcity,
+        projectLink : "https://github.com/MackTheDeveloper/reqcity",
     },
     {
-        title : "Leetcode Bookmark",
-        description : "Chrome extension which saves leetcode articles for future reference.",
-        image : phishing,
-        projectLink : "https://github.com/Abhinav2011/leetcode-bookmark",
+        title : "Damask",
+        description : "Damask is a platform to serve delicious Cake Pops, Baking Tools, Decorations, Cakes, Frosting, and Cupcakes. Customers can customize the cakes and place an order.",
+        image : damask,
+        projectLink : "https://github.com/MackTheDeveloper/damask-cakes",
     },
     {
-        title : "Blockchain voting platform",
-        description : "A complete decentralized voting system built on the Ethereum network. Elections can be started on the platform and users can vote for candidates. Admin has the ability to check all elections and manage them.",
-        image : voting,
+        title : "RLHH Education",
+        description : "RLHH Education is a world class homeopathic teaching centre offering online courses leading to LFHom and MFhom qualifications. Online Homeopathy classes and training for beginners, intermediate and advanced levels.",
+        image : rlhh,
         projectLink : "https://github.com/UIpyo",
     },
     {
-        title : "LeetCode Notifier",
-        description : "A discord bot which helps you in your leetcode journey. Built using NodeJs and DiscordJs.",
-        image : leetcodeNotifier,
-        projectLink : "https://github.com/Abhinav2011/Leetcode-notifier",
+        title : "Chatelain Cargo Services",
+        description : "Chatelain Cargo Services is a worldwide cargo and courier service provider. it provides services like cargo, courier, ups, aeropost, and ccpack. there are lots of consignees and shippers using this service globally.",
+        image : cargo,
+        projectLink : "https://github.com/MackTheDeveloper/ccxpresssa",
     },
     {
-        title : "E-commerce-API",
-        description : "E-commerce API made using NodeJS, express and MongoDB. Used JWT for user authentication.",
-        image : ecommerce,
-        projectLink : "https://github.com/Abhinav2011/E-commerce-API",
+        title : "DeliverCareRx",
+        description : "DeliverCareRx is an innovative national home delivery hospice pharmacy licensed in all 50 US states.",
+        image : delivercare,
+        projectLink : "https://github.com/MackTheDeveloper/delivercarerx",
     },
   
     
