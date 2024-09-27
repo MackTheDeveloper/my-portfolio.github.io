@@ -17,7 +17,7 @@ https://my-portfolio-github-io-fawn.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/Abhinav2011/my-portfolio
+  git clone https://github.com/MackTheDeveloper/my-portfolio.github.io.git
 ```
 
 Go to the project directory
@@ -36,18 +36,4 @@ Start the server
 
 ```bash
   npm start
-```
-
-## Run using Docker
-
-Pull docker image
-
-```bash
-docker pull abhinav2011/abhinav-portfolio
-```
-
-Run the docker image
-
-```bash
-docker run -p 5173:5173 abhinav2011/abhinav-portfolio
 ```
