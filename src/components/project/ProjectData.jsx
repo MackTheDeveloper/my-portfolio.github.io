@@ -28,7 +28,7 @@ const projectData = [
         title : "RLHH Education",
         description : "RLHH Education is a world class homeopathic teaching centre offering online courses leading to LFHom and MFhom qualifications. Online Homeopathy classes and training for beginners, intermediate and advanced levels.",
         image : rlhh,
-        projectLink : "https://github.com/UIpyo",
+        projectLink : "https://github.com/MackTheDeveloper/rlhh",
     },
     {
         title : "Chatelain Cargo Services",
